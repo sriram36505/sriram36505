@@ -1,8 +1,8 @@
-### Hi there, I'm [Your Name] 👋
+### Hi there, I'm Sriram R 👋
 
 ![Your Banner Image](https://github.com/yourusername/banner.png)
 
-I am a **[Your Profession or Interest]** passionate about **[Your Key Skills/Interests]**. I love building projects that solve real-world problems and contribute to open-source communities. 🚀
+I am a **** passionate about **[Your Key Skills/Interests]**. I love building projects that solve real-world problems and contribute to open-source communities. 🚀
 
 ### 💡 About Me
 - 🎯 Currently working on **[Your Current Project]**
