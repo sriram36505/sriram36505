@@ -1,134 +1,122 @@
-# 👋 Hi there, I'm Sriram R
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Machine+Learning+Researcher;Deep+Learning+Enthusiast;Computer+Vision+Developer;Building+AI+Solutions+for+Real-World+Problems" alt="Typing SVG" />
-</div>
-
----
-
-## 🎯 About Me
-
-I'm a **Machine Learning researcher and engineer** with a deep passion for deep learning and computer vision. I specialize in building intelligent systems that solve real-world problems through cutting-edge AI techniques. Currently focused on transfer learning, attention mechanisms, and image classification.
-
-- 🔬 **Currently working on**: [VisionSpice](https://github.com/sriram36505/VisionSpice) - Indian Spices Classification using Deep Learning
-- 🧠 **Learning**: Advanced neural architectures, reinforcement learning, and model optimization
-- 💡 **Ask me about**: Deep Learning, PyTorch, Transfer Learning, CNN architectures, Data augmentation
-- 📧 **Reach me at**: sriram.r@example.com
-- 🌐 **Portfolio**: [My Projects](#-featured-projects)
-
----
-
-## 🎓 Expertise & Skills
-
-### 🤖 Machine Learning & AI
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-
-### 💻 Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-
-### 🛠️ Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=flat-square&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=google-colab&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-### 🎯 VisionSpice - Deep Learning for Indian Spices Classification
-> **Transfer Learning + Attention Mechanisms + Advanced Augmentation**
-
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) [View Repository](https://github.com/sriram36505/VisionSpice)
-
-**Highlights:**
-- 📊 **93% Validation Accuracy** on 19 spice classification classes
-- 🏗️ **Progressive Model Development**: CNN → EfficientNet → EfficientNet+SE Attention
-- 🔬 **Controlled Experiments**: 4 iterations showing iterative improvements (72% → 93%)
-- 🎨 **Advanced Techniques**: SE attention blocks, MixUp/CutMix augmentation
-- 📈 **Comprehensive Documentation**: experiments.md with ablation studies
-- 🎓 **Research-Grade Code**: Professional structure, reproducibility, best practices
-
-**Technologies**: PyTorch, EfficientNet-B0, Squeeze-and-Excitation Networks
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sriram36505&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sriram36505&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sriram36505&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="50%" />
-</div>
-
----
-
-## 💼 What I'm Working On
-
-- 🔍 Exploring Vision Transformers for image classification
-- 📚 Researching semi-supervised learning techniques
-- 🎯 Building production-ready ML pipelines
-- 📖 Writing technical blogs on deep learning concepts
-
----
-
-## 🌟 Key Achievements
-
-- ✅ **VisionSpice**: 93% accuracy with controlled experiments showing iterative improvements
-- ✅ **Professional Code Standards**: .gitignore, CONTRIBUTING.md, comprehensive README
-- ✅ **Research Documentation**: experiments.md with ablation studies and key findings
-- ✅ **Clean Architecture**: Modular code, reproducible results, best practices
-
----
-
-## 📚 Recent Learning
-
-```python
-# Areas of Focus
-learning_stack = {
-    "architectures": ["EfficientNet", "Vision Transformers", "YOLO"],
-    "techniques": ["Transfer Learning", "Attention Mechanisms", "Data Augmentation"],
-    "tools": ["PyTorch", "Jupyter", "Google Colab", "Git"],
-    "applications": ["Image Classification", "Object Detection", "Semantic Segmentation"]
-}
-```
-
----
-
-## 🤝 Connect With Me
-
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sriram36505)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sriram36505)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sriram.r@example.com)
+# Hey, I'm Sriram R 👋
+
+**Machine Learning Researcher · Full-Stack Developer · Builder**
+
+*I work at the boundary of ML research and real products —
+from self-supervised vision models trained on medical imaging
+to full-stack platforms used by real students.*
+
+[![Email](https://img.shields.io/badge/Email-sram36505@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sram36505@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-sriram36505-181717?style=flat&logo=github)](https://github.com/sriram36505)
 
 </div>
 
 ---
 
-## 💡 Philosophy
+## What I'm building
 
-> "The best way to predict the future is to invent it." — Alan Kay
->
-> I believe in building AI solutions that make a real impact. Every model, every line of code, every experiment is a step toward creating intelligent systems that solve meaningful problems.
+### 🧠 VL-JEPA — Medical VQA for Spine Imaging *(IIT Kanpur)*
+Pretrained a vision encoder **from scratch** using the self-supervised i-JEPA objective
+on 50,498 spine X-ray and MRI images. Built a novel embedding-prediction VQA model
+that retrieves answers by cosine similarity in latent space rather than fixed class weights.
+
+- **77.72 ± 0.32% macro accuracy** across 8 question types on a 12,498-sample test set
+- **60.4% Severe stenosis recall** — the rare but clinically critical class (~3.7% of data)
+- +9.3 pts over the cross-entropy baseline on severity grading, where it matters most
+- Splits verified leak-free at the image level across 50K+ training images
+
+→ [View repo & full results](https://github.com/sriram36505/VL-JEPA)
+
+---
+
+### 🛒 Campus Marketplace
+A verified-student buy/sell platform — any college, zero fees, trust by design.
+
+Students sign in with their institutional email. Campus isolation is enforced at the
+**database layer via Row-Level Security**, not in app code. One codebase, every
+college gets its own scoped marketplace.
+
+- AI snap-to-list: photograph an item, a vision model writes the listing
+- Semantic search via pgvector — finds items by meaning, not just keywords
+- Real-time buyer↔seller chat with Supabase Realtime
+- Provider-agnostic AI layer: swap between self-hosted GPU and cloud with one env var
+
+→ [View repo](https://github.com/sriram36505/campus-marketplace)
+
+---
+
+### 🌶️ VisionSpice
+Indian spice classification using EfficientNet-B0 and transfer learning on a custom
+dataset of regional spice varieties.
+
+→ [View repo](https://github.com/sriram36505/VisionSpice)
+
+---
+
+### 🚗 noctiloc-models
+Nighttime vehicle detection using YOLOv8 with ConvLSTM temporal sequence processing
+and headlight attention masking for low-visibility conditions.
+
+→ [View repo](https://github.com/sriram36505/noctiloc-models)
+
+---
+
+## What I care about
+
+- Self-supervised learning and representation quality over supervised shortcuts
+- Models that work on rare classes, not just easy majorities
+- Systems where security and correctness are structural — not bolted on
+- AI features that degrade gracefully (fallbacks, not hard failures)
+- Building things that real people actually use
+
+---
+
+## Tech
+
+**ML / CV / Research**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+
+**Full-Stack**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+
+**Other**
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+## Project index
+
+| Project | What it is | Stack |
+|---|---|---|
+| [VL-JEPA](https://github.com/sriram36505/VL-JEPA) | Self-supervised spine VQA — 77.72% macro acc, 60.4% Severe recall | PyTorch, BioBERT, i-JEPA |
+| [campus-marketplace](https://github.com/sriram36505/campus-marketplace) | Verified-student marketplace with AI and real-time chat | Next.js, Supabase, pgvector |
+| [VisionSpice](https://github.com/sriram36505/VisionSpice) | Indian spice classification with transfer learning | PyTorch, EfficientNet-B0 |
+| [noctiloc-models](https://github.com/sriram36505/noctiloc-models) | Nighttime vehicle detection with temporal attention | YOLOv8, ConvLSTM |
+| [Ai-smart-home-automation](https://github.com/sriram36505/Ai-smart-home-automation-) | AI-driven home automation system | C++ |
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sriram36505&color=brightgreen" alt="Profile Views" />
+
+*Open to research collaborations and internships in ML, computer vision, and full-stack engineering.*
+
+📬 [sram36505@gmail.com](mailto:sram36505@gmail.com)
+
 </div>
-
----
-
-**⭐ If you find my work interesting, consider giving my repositories a star! Your support motivates me to keep pushing boundaries in AI and ML.**
