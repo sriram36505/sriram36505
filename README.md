@@ -48,16 +48,22 @@ college gets its own scoped marketplace.
 ---
 
 ### 🌶️ VisionSpice
-Indian spice classification using EfficientNet-B0 and transfer learning on a custom
-dataset of regional spice varieties.
+Fine-grained Indian spice classification across 19 classes under real-world conditions.
+
+- **96.8% test accuracy · macro-F1: 0.967** on 10,991 images
+- EfficientNet-B3 + custom stage-level SE attention
+- +12.9pp over scratch baseline · 19ms inference · 12.5M parameters
 
 → [View repo](https://github.com/sriram36505/VisionSpice)
 
 ---
 
-### 🚗 noctiloc-models
-Nighttime vehicle detection using YOLOv8 with ConvLSTM temporal sequence processing
-and headlight attention masking for low-visibility conditions.
+### 🚗 HSTA-YOLO — Nighttime Vehicle Detection
+Four-stage pipeline for nighttime detection tackling glare, motion blur, and noise.
+
+- **mAP@50: 0.975 · F1: 0.956 · 40 FPS** on NVIDIA T4
+- **+8.7 points** over Gold-YOLO baseline
+- CLAHE preprocessing alone contributes more than all learned attention combined (+43.7% mAP@95)
 
 → [View repo](https://github.com/sriram36505/noctiloc-models)
 
