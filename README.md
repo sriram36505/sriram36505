@@ -113,8 +113,8 @@ Four-stage pipeline for nighttime detection tackling glare, motion blur, and noi
 |---|---|---|
 | [VL-JEPA](https://github.com/sriram36505/VL-JEPA) | Self-supervised spine VQA — 77.72% macro acc, 60.4% Severe recall | PyTorch, BioBERT, i-JEPA |
 | [campus-marketplace](https://github.com/sriram36505/campus-marketplace) | Verified-student marketplace with AI and real-time chat | Next.js, Supabase, pgvector |
-| [VisionSpice](https://github.com/sriram36505/VisionSpice) | Indian spice classification with transfer learning | PyTorch, EfficientNet-B0 |
-| [noctiloc-models](https://github.com/sriram36505/noctiloc-models) | Nighttime vehicle detection with temporal attention | YOLOv8, ConvLSTM |
+| [VisionSpice](https://github.com/sriram36505/VisionSpice) | Indian spice classification · 96.8% accuracy · 19 classes | PyTorch, EfficientNet-B3, SE Attention |
+| [noctiloc-models](https://github.com/sriram36505/noctiloc-models) | Nighttime vehicle detection · mAP@50: 0.975 · +8.7pts over Gold-YOLO | YOLOv8, ConvLSTM, CLAHE |
 | [Ai-smart-home-automation](https://github.com/sriram36505/Ai-smart-home-automation-) | AI-driven home automation system | C++ |
 
 ---
